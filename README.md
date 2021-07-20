@@ -26,6 +26,8 @@ Here are some ideas to get you started:
     
 </p>
 
+
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
@@ -40,3 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=dongsik93&show_icons=true&theme=gruvbox)
