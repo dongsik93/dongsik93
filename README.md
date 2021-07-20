@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Dongsik 😄" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
 <!--
 **dongsik93/dongsik93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
