@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://dongsik93.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-      <a href="mailto:ehdtlr9376@naver.com" target="_blank"><img src="https://img.shields.io/badge/ehdtlr9376@naver.com-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
+      <a href="mailto:ehdtlr9376@naver.com" target="_blank"><img src="https://img.shields.io/badge/ehdtlr9376@naver.com-00cc00?style=flat-square&logo=Naver&logoColor=white"/></a>
     <a href="https://instagram.com/dongsikkkkk2">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
