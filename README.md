@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </p>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dongsik93&show_icons=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=dongsik93&show_icons=true&theme=onedark)
