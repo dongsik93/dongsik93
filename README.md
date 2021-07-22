@@ -26,7 +26,6 @@ Here are some ideas to get you started:
     
 </p>
 
-</br>
 
 ### 💪 Skills
 #### Platforms & Languages
