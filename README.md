@@ -46,5 +46,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongsik93&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongsik93&theme=dracula&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongsik93&theme=dracula&langs_count=3" />
 </a>
