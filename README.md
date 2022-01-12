@@ -1,4 +1,4 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Dong+Sik+˙ᵕ˙+&nbsp;)
 
 <p>
     <a href="https://dongsik93.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
